@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/model"
 )
 
 var (

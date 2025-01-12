@@ -27,10 +27,10 @@ import (
 	"strings"
 
 	"github.com/hhrutter/tiff"
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/DLippke/pdfcpu/pkg/filter"
+	"github.com/DLippke/pdfcpu/pkg/log"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/model"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

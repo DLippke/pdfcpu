@@ -24,8 +24,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/DLippke/pdfcpu/pkg/log"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/types"
 )
 
 var (

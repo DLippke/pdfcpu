@@ -25,12 +25,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/pdfcpu/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/DLippke/pdfcpu/pkg/filter"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/color"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/draw"
+	pdffont "github.com/DLippke/pdfcpu/pkg/pdfcpu/font"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/model"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

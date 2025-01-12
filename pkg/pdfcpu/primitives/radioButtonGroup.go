@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/color"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/model"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

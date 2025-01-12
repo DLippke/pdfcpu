@@ -24,13 +24,13 @@ import (
 	"sort"
 	"unicode/utf8"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/DLippke/pdfcpu/pkg/font"
+	"github.com/DLippke/pdfcpu/pkg/log"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/color"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/draw"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/model"
+	"github.com/DLippke/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 
